@@ -121,6 +121,3 @@ Once the game starts, enter commands in the console. Use `help` to display the c
 | `record` | Displays the record for the current difficulty. |
 | `help` | Displays the available commands. |
 | `exit` | Leaves the game. |
-## Authors
-
-Developed as part of the Programming Technology course.
